@@ -1,4 +1,4 @@
-# 📘 Welcome to My Python Learning Journey! 🚀
+## 📘 Welcome to My Python Learning Journey! 🚀
 
 Hello there! 👋 I’m Anish, and I’m on an exciting journey to become a Data Analyst using Python! 🐍📊
 
