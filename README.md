@@ -173,4 +173,3 @@ test()
 
 ---
 
-Do you want to try writing a function yourself? I can check it or guide you with examples.
