@@ -172,3 +172,73 @@ test()
 
 ---
 
+# Object Oriented Programming Concept
+OOPs is a programming paradigm based on the concept of "objects", which contain data and methods to operate on that data.
+
+## 4 Main Pillars of OOPs
+### Encapsulation
+- Bundling of data (attributes) and methods inside a class.
+
+- Helps protect internal object details from outside interference.
+
+### Abstraction
+
+- Hiding complex implementation details and showing only essential features.
+
+- Achieved using methods and classes.
+
+### Inheritance
+
+- One class (child) inherits attributes and methods from another class (parent).
+
+- Promotes code reusability.
+
+### Polymorphism
+
+- Same method name behaving differently in different classes.
+
+- "Many forms" – one interface, many implementation
+
+## Class and Objects
+### **Class**
+A **class** is like a blueprint for creating **objects**. It defines the structure and behavior (data and functions) that the created objects will have.
+
+- It can contain attributes (variables) and methods (functions).
+- Think of it as a template. For example, a `Car` class defines what a car is, but no specific car exists until you create an object of that class.
+
+### **Object**
+An **object** is an instance of a class. It holds actual data and can use the methods defined in the class.
+
+- Each object can have different values for the same attributes.
+- Multiple objects can be created from the same class.
+
+---
+
+### 🧠 Key Terms
+- **`__init__` method**: A special method called automatically when a new object is created. It's used to initialize object properties.
+- **`self`**: Refers to the current instance of the class. Used to access variables and methods within the class.
+
+---
+
+### ✅ Example
+
+```python
+# Define a class
+class Person:
+    def __init__(self, name, age):
+        self.name = name  # attribute
+        self.age = age    # attribute
+
+    def greet(self):
+        print(f"Hello, my name is {self.name} and I'm {self.age} years old.")
+
+# Create objects
+person1 = Person("Alice", 25)
+person2 = Person("Bob", 30)
+
+# Access methods
+person1.greet()   # Output: Hello, my name is Alice and I'm 25 years old.
+person2.greet()   # Output: Hello, my name is Bob and I'm 30 years old.
+```
+
+---
