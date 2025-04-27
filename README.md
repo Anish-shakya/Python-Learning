@@ -13,11 +13,8 @@ Python is a popular, easy-to-learn programming language used for web development
   ```python
   # This is a comment
     ```
-
-  
 ## Variables
-Variables store data values.
-	•	You don’t need to declare the type — Python automatically identifies it.
+Variables store data values.We don’t need to declare the type — Python automatically identifies it.
 
 ## DataTypes
 ## Strings 
