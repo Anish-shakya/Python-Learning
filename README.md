@@ -5,8 +5,20 @@ This repository is my personal learning tracker, where I document everything I l
 Whether it's coding basics, data manipulation, visualization, or machine learning, I'll be sharing my progress here.
 # Table Of Content
 # Basics
+Python is a popular, easy-to-learn programming language used for web development, data analysis, AI, automation, and more. It focuses on readability and simplicity.
+
 ## Comments
+- Comments are used to explain the code and are ignored by the Python interpreter.
+- Single-line comment:  
+  ```python
+  # This is a comment
+    ```
+
+  
 ## Variables
+Variables store data values.
+	•	You don’t need to declare the type — Python automatically identifies it.
+
 ## DataTypes
 ## Strings 
 # Dictionary and Sets
