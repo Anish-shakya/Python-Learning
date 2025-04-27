@@ -17,8 +17,25 @@ Python is a popular, easy-to-learn programming language used for web development
 Variables store data values.We don’t need to declare the type — Python automatically identifies it.
 
 ## DataTypes
+Common data types in Python:
+	•	int - Integer numbers: 1, 2, 100
+	•	float - Decimal numbers: 3.14, 5.0
+	•	str - Text/String: "Hello"
+	•	bool - Boolean values: True, False
+	•	list - Collection of items: [1, 2, 3]
+	•	tuple - Immutable collection: (1, 2, 3)
+	•	set - Unordered unique items: {1, 2, 3}
+	•	dict - Key-value pairs: {"name": "John", "age": 25}
 ## Strings 
+Strings are sequences of characters.
+	•	You can use single (') or double (") quotes.
+	•	String operations:
 # Dictionary and Sets
+## Dictionary
+	•	Stores data in key-value pairs.
+	•	Example:
+ ## Sets
+ 	•	A collection of unordered, unique items.
 # List and Tuples
 # Loops
 # Functions
